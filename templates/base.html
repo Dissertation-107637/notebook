@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Notebook</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="container">
+        <h1>Notebook</h1>
+        <h2>André Almeida Oliveira - 107637</h2>
+        <div class="meta">
+          <span
+            >Última atualização do notebook:
+            <strong>{{ last_updated }}</strong></span
+          >
+        </div>
+      </div>
+    </header>
+
+    <main class="container layout">
+      <aside class="sidebar" aria-label="Sumário">
+        <h2>Sumário</h2>
+        <div class="toc">{{ toc }}</div>
+      </aside>
+      <article class="content" aria-label="Conteúdo principal">
+        {{ content }}
+      </article>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <p>Gerado automaticamente a partir de <code>NOTEBOOK.md</code></p>
+      </div>
+    </footer>
+  </body>
+</html>
