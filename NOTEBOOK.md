@@ -13,7 +13,7 @@
 - Levantamento dos principais componentes FIWARE em uso (Orion, Cygnus, Keyrock, Wilma, AuthzForce).
 - Exploração da configuração do cluster Kubernetes e identificação de como os serviços estão distribuídos.
 - Recolha e organização de documentação relevante (diagramas, especificações técnicas, configurações).
-- Estudo introdutório sobre Kubernetes, incluindo conceitos de deployments, services, namespaces, configmaps, secrets e ingresses. Conclusão de uma certificação introdutória em Kubernetes, disponível [neste ficheiro](assets/certificates/Kubernetes%20for%20the%20Absolute%20Beginners%20-%20Hands-on.pdf).
+- Estudo introdutório sobre Kubernetes, incluindo conceitos de deployments, services, namespaces, configmaps, secrets e ingresses. Conclusão de uma certificação introdutória em Kubernetes, disponível [aqui](assets/certificates/Kubernetes%20for%20the%20Absolute%20Beginners%20-%20Hands-on.pdf).
 
 ## Tarefas Não Realizadas
 
