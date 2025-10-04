@@ -47,7 +47,7 @@
 
 - Continuação da revisão bibliográfica, com organização das principais referências.
 - Elaboração de um primeiro draft da Introdução, abordando a motivação do trabalho, os objetivos gerais e específicos e as principais contribuições previstas.
-- Continuação do curso sobre Kubernetes, com foco em configuração e orquestração de serviços em ambiente de cluster.
+- Continuação do curso sobre Kubernetes, com foco na configuração e orquestração de serviços num cluster.
 - Início dos testes e planeamento do desenvolvimento do serviço Smart Crosswalks.
 
 # Trabalho Futuro
