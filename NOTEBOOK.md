@@ -52,6 +52,6 @@
 
 # Trabalho Futuro
 
-- Continuar a recolha e análise de literatura científica, consolidando o enquadramento teórico sobre Urban Data Platforms, orquestração de serviços e arquiteturas em Smart Cities.
+- Continuar a recolha e análise de literatura científica.
 - Refinamento da Introdução e planeamento do Estado da Arte.
 - Desenvolvimento do vertical Smart Crosswalks: implementar o fluxo completo de recolha, processamento e exposição de dados, integrando-o na arquitetura existente da plataforma.
