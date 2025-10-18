@@ -50,8 +50,29 @@
 - Continuação do curso sobre Kubernetes, com foco na configuração e orquestração de serviços num cluster.
 - Início dos testes e planeamento do desenvolvimento do serviço Smart Crosswalks.
 
+---
+
+# Semana 4
+
+## Objetivos Principais
+
+- Continuar a revisão bibliográfica.
+- Dar continuidade ao desenvolvimento de competências em Kubernetes, continuando o curso iniciado nas semanas anteriores.
+- Testar e validar o funcionamento inicial do vertical Smart Crosswalks.
+- Avançar na escrita da dissertação, com o draft das secções de Motivação e Objetivos já concluído.
+
+## Tarefas Realizadas
+
+- Continuação da revisão bibliográfica, com identificação de novos artigos e comparação entre diferentes abordagens arquiteturais para plataformas urbanas de dados.
+- Continuação do curso sobre Kubernetes.
+- Execução de testes práticos no vertical Smart Crosswalks, avaliando o comportamento dos fluxos de recolha e processamento de dados e a integração com os componentes da plataforma.
+- Consolidação do texto preliminar da Introdução, incluindo as secções de Motivação e Objetivos, servindo de base para a próxima fase de escrita.
+
+---
+
 # Trabalho Futuro
 
-- Continuar a recolha e análise de literatura científica.
-- Refinamento da Introdução e planeamento do Estado da Arte.
-- Desenvolvimento do vertical Smart Crosswalks: implementar o fluxo completo de recolha, processamento e exposição de dados, integrando-o na arquitetura existente da plataforma.
+- Continuar a revisão de literatura.
+- Iniciar a escrita do capítulo do Estado da Arte (SoA): estruturar e começar a escrever as principais secções, integrando os tópicos abordados na revisão bibliográfica realizada até ao momento.
+- Continuação do estudo sobre Kubernetes.
+- Dar continuidade aos testes do vertical Smart Crosswalks, avaliando o desempenho e estabilidade dos fluxos de recolha e processamento de dados, ajustando a integração com os componentes da plataforma.
