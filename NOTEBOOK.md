@@ -1,4 +1,4 @@
-# Semana 1
+# Semana 1 (16/09/2025 - 23/09/2025)
 
 ## Objetivos Principais
 
@@ -17,7 +17,7 @@
 
 ---
 
-# Semana 2
+# Semana 2 (23/09/2025 - 30/09/2025)
 
 ## Objetivos Principais
 
@@ -34,7 +34,7 @@
 
 ---
 
-# Semana 3
+# Semana 3 (30/09/2025 - 07/10/2025)
 
 ## Objetivos Principais
 
@@ -52,13 +52,13 @@
 
 ---
 
-# Semana 4
+# Semana 4 (07/10/2025 - 14/10/2025)
 
 ## Objetivos Principais
 
 - Continuar a revisão bibliográfica.
 - Dar continuidade ao desenvolvimento de competências em Kubernetes, continuando o curso iniciado nas semanas anteriores.
-- Testar e validar o funcionamento inicial do vertical Smart Crosswalks.
+- Testar e validar o funcionamento inicial do vertical das Smart Crosswalks.
 - Avançar na escrita da dissertação, com o draft das secções de Motivação e Objetivos já concluído.
 
 ## Tarefas Realizadas
@@ -70,9 +70,50 @@
 
 ---
 
-# Trabalho Futuro
+# Semana 5 (14/10/2025 - 21/10/2025)
+
+## Objetivos Principais
+
+- Prosseguir a revisão de literatura, consolidando o enquadramento teórico sobre plataformas urbanas de dados e as suas arquiteturas baseadas em FIWARE e Kubernetes.
+- Iniciar a fase de implementação prática do vertical Smart Crosswalks.
+
+## Tarefas Realizadas
+
+- Continuação da revisão bibliográfica, orquestração de serviços e mecanismos de interoperabilidade entre verticais.
+- Início da implementação do vertical Smart Crosswalks, com a criação do modelo de dados e lógica de processamento.
+
+---
+
+# Semana 6 (21/10/2025 - 28/10/2025)
+
+## Objetivos Principais
+
+- Concluir a implementação do vertical das Smart Crosswalks.
+- Prosseguir a revisão bibliográfica, preparando a base para o capítulo do Estado da Arte.
+- Preparar o ambiente e o plano de testes para a fase de validação do novo vertical.
+
+## Tarefas Realizadas
+
+- Finalização da implementação completa do vertical, incluindo todos os componentes necessários à recolha, processamento e disponibilização de dados.
+- Integração do vertical com os serviços FIWARE existentes, garantindo compatibilidade com os mecanismos de persistência e orquestração.
+- Continuação da revisão de literatura, com foco em arquiteturas de dados urbanos, interoperabilidade semântica e plataformas FIWARE aplicadas a Smart Cities.
+- Definição do plano de testes e métricas de avaliação para a fase seguinte, destinada à validação funcional e de desempenho do vertical das Smart Crosswalks.
+
+---
+
+# Semana 7 (28/10/2025 - 04/11/2025)
+
+## Objetivos Principais
 
 - Continuar a revisão de literatura.
-- Iniciar a escrita do capítulo do Estado da Arte (SoA): estruturar e começar a escrever as principais secções, integrando os tópicos abordados na revisão bibliográfica realizada até ao momento.
-- Continuação do estudo sobre Kubernetes.
-- Dar continuidade aos testes do vertical Smart Crosswalks, avaliando o desempenho e estabilidade dos fluxos de recolha e processamento de dados, ajustando a integração com os componentes da plataforma.
+- Iniciar a redação do Capítulo 2 (Estado da Arte), estruturando as principais secções temáticas.
+- Dar início à fase de testes do vertical das Smart Crosswalks, validando o seu funcionamento e desempenho em ambiente real.
+
+## Tarefas Realizadas
+
+- Prosseguimento da revisão bibliográfica, com recolha e análise de novas referências sobre orquestração de serviços, interoperabilidade e gestão de dados em Smart Cities.
+- Início da escrita do Capítulo 2 (Estado da Arte), com a elaboração das secções introdutórias e definição da estrutura global do capítulo.
+- Início da fase de testes do vertical, avaliando a comunicação entre os componentes FIWARE, a recolha de dados e o processamento dos eventos provenientes dos sensores.
+- Registo dos primeiros resultados e observações preliminares, a serem analisados em maior detalhe na fase seguinte.
+
+---

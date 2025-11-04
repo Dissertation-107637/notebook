@@ -66,7 +66,7 @@ code {
 }
 
 .container {
-  width: min(1100px, 92vw);
+  width: min(1200px, 96vw);
   margin: 0 auto;
 }
 
@@ -92,7 +92,11 @@ code {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, rgba(6, 95, 70, 0.35), rgba(6, 95, 70, 0.6));
+  background: linear-gradient(
+    180deg,
+    rgba(6, 95, 70, 0.35),
+    rgba(6, 95, 70, 0.6)
+  );
   z-index: -1;
 }
 
@@ -125,7 +129,7 @@ code {
 
 .layout {
   display: grid;
-  grid-template-columns: minmax(0, 320px) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 360px) minmax(0, 1fr);
   gap: clamp(1.5rem, 3vw, 3rem);
   padding: 3rem 0;
 }
