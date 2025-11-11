@@ -117,3 +117,17 @@
 - Registo dos primeiros resultados e observações preliminares, a serem analisados em maior detalhe na fase seguinte.
 
 ---
+
+# Semana 8 (04/11/2025 - 11/11/2025)
+
+## Objetivos Principais
+
+- Avançar na escrita do Estado da Arte, com foco na secção Smart Cities and Urban Data Platforms.
+- Continuar a fase de implementação e testes do vertical das Smart Crosswalks, garantindo estabilidade e eficiência nos fluxos de dados.
+- Explorar formas de otimizar as operações do Orion Context Broker, de modo a melhorar o desempenho global da plataforma.
+
+## Tarefas Realizadas
+
+- Escrita da secção Smart Cities and Urban Data Platforms do Estado da Arte, abordando conceitos fundamentais, desafios e exemplos de plataformas urbanas existentes.
+- Continuação da implementação e ajustes do vertical Smart Crosswalks, com foco na fiabilidade dos processos de recolha e publicação de dados, faltando apenas os testes.
+- Análise de estratégias para otimizar o desempenho do Orion Context Broker, explorando o uso de memória RAM para armazenamento de entidades transientes, de modo a acelerar as operações de leitura e escrita e reduzir o tempo de resposta do sistema.
