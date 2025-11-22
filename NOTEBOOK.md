@@ -131,3 +131,19 @@
 - Escrita da secção Smart Cities and Urban Data Platforms do Estado da Arte, abordando conceitos fundamentais, desafios e exemplos de plataformas urbanas existentes.
 - Continuação da implementação e ajustes do vertical Smart Crosswalks, com foco na fiabilidade dos processos de recolha e publicação de dados, faltando apenas os testes.
 - Análise de estratégias para otimizar o desempenho do Orion Context Broker, explorando o uso de memória RAM para armazenamento de entidades transientes, de modo a acelerar as operações de leitura e escrita e reduzir o tempo de resposta do sistema.
+
+---
+
+# Semana 9 (11/11/2025 - 18/11/2025)
+
+## Objetivos Principais
+
+- Expandir a revisão de literatura através da análise de novas plataformas urbanas de dados e soluções relevantes no ecossistema das Smart Cities.
+- Testar o vertical Smart Crosswalks, avaliando metodologias para obtenção de localização a partir de câmaras.
+- Explorar possíveis novos verticais a integrar na plataforma, identificando casos de uso já implementados noutras cidades inteligentes.
+
+## Tarefas Realizadas
+
+- Pesquisa e análise de várias plataformas urbanas de dados, incluindo Snap4City, City Data Hub, SmartSantander, entre outras, com foco nas suas arquiteturas, camadas funcionais e abordagens de interoperabilidade.
+- Testes ao vertical Smart Crosswalks: verificou-se que a utilização de coordenadas GPS inferidas a partir das câmaras resultava em elevada imprecisão. Como alternativa, adotou-se o uso de coordenadas em píxeis da imagem para representar a posição dos utilizadores, garantindo maior fiabilidade no processamento e deteção de eventos.
+- Exploração de novos verticais e casos de uso já existentes em Smart Cities, como smart waste management, iluminação pública inteligente, monitorização ambiental e gestão de estacionamento, identificando potenciais candidatos para futura implementação ou integração na plataforma.
