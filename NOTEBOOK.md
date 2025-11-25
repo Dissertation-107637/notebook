@@ -147,3 +147,18 @@
 - Pesquisa e análise de várias plataformas urbanas de dados, incluindo Snap4City, City Data Hub, SmartSantander, entre outras, com foco nas suas arquiteturas, camadas funcionais e abordagens de interoperabilidade.
 - Testes ao vertical Smart Crosswalks: verificou-se que a utilização de coordenadas GPS inferidas a partir das câmaras resultava em elevada imprecisão. Como alternativa, adotou-se o uso de coordenadas em píxeis da imagem para representar a posição dos utilizadores, garantindo maior fiabilidade no processamento e deteção de eventos.
 - Exploração de novos verticais e casos de uso já existentes em Smart Cities, como smart waste management, iluminação pública inteligente, monitorização ambiental e gestão de estacionamento, identificando potenciais candidatos para futura implementação ou integração na plataforma.
+
+---
+
+# Semana 10 (18/11/2025 - 25/11/2025)
+
+## Objetivos Principais
+
+- Validar o novo método de localização baseado em píxeis da imagem utilizado no vertical Smart Crosswalks, garantindo a sua fiabilidade face ao comportamento observado na imagem e avaliar preliminarmente a qualidade dos dados recolhidos, preparando a fase seguinte dedicada à análise estatística.
+- Avançar na escrita do Capítulo 2, especificamente nas secções relacionadas com plataformas urbanas de dados existentes e conceitos fundamentais de Smart Cities.
+
+## Tarefas Realizadas
+
+- Testes detalhados ao novo método de localização por coordenadas de píxeis, comparando os resultados obtidos com o comportamento visual observado nas sequências de vídeo. Os testes demonstraram um comportamento positivo e estável, confirmando a adequação desta abordagem.
+- Identificação da necessidade de realizar testes adicionais focados na validação estatística dos valores recolhidos (distribuições, precisão, estabilidade), a serem executados na próxima fase.
+- Escrita das secções do Estado da Arte relacionadas com Smart Cities e com as principais plataformas urbanas de dados existentes, integrando exemplos como City Data Hub, entre outras.
