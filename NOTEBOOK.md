@@ -162,3 +162,18 @@
 - Testes detalhados ao novo método de localização por coordenadas de píxeis, comparando os resultados obtidos com o comportamento visual observado nas sequências de vídeo. Os testes demonstraram um comportamento positivo e estável, confirmando a adequação desta abordagem.
 - Identificação da necessidade de realizar testes adicionais focados na validação estatística dos valores recolhidos (distribuições, precisão, estabilidade), a serem executados na próxima fase.
 - Escrita das secções do Estado da Arte relacionadas com Smart Cities e com as principais plataformas urbanas de dados existentes, integrando exemplos como City Data Hub, entre outras.
+
+---
+
+# Semana 11 (25/11/2025 - 02/12/2025)
+
+## Objetivos Principais
+
+- Prosseguir o desenvolvimento do Capítulo 2, consolidando as secções já iniciadas.
+- Validar e finalizar a secção dedicada às plataformas urbanas de dados existentes.
+- Iniciar e desenvolver a secção relativa aos verticais de Smart Cities descritos na literatura.
+
+## Tarefas Realizadas
+
+- Revisão da secção sobre plataformas urbanas de dados, garantindo clareza, consistência e correta contextualização dos exemplos analisados ao longo das semanas anteriores.
+- Escrita da nova secção dedicada aos verticais existentes na literatura, abordando áreas como mobilidade inteligente, gestão de resíduos, monitorização ambiental, smart parking, iluminação inteligente, entre outros.
