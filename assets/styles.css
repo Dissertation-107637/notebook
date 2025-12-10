@@ -147,8 +147,6 @@ code {
   border-radius: 1.25rem;
   padding: 1.75rem;
   box-shadow: var(--shadow);
-  max-height: calc(100vh - 3rem);
-  overflow-y: auto;
   backdrop-filter: blur(8px);
 }
 
