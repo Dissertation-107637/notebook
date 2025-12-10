@@ -177,3 +177,19 @@
 
 - Revisão da secção sobre plataformas urbanas de dados, garantindo clareza, consistência e correta contextualização dos exemplos analisados ao longo das semanas anteriores.
 - Escrita da nova secção dedicada aos verticais existentes na literatura, abordando áreas como mobilidade inteligente, gestão de resíduos, monitorização ambiental, smart parking, iluminação inteligente, entre outros.
+
+---
+
+# Semana 12 (02/12/2025 - 09/12/2025)
+
+## Objetivos Principais
+
+- Continuação da escrita do Capítulo 2, com foco em tópicos mais específicos, como modelação de dados (NGSI-LD e NGSIv2), análise de Big Data, escalabilidade, resiliência, observabilidade, segurança, multi-tenancy e controlo de acesso.
+- Revisão e aprimoramento das secções já escritas.
+- Refinamento dos jobs de processamento de dados, visando melhorar a velocidade e a eficiência das operações de ingestão e processamento.
+
+## Tarefas Realizadas
+
+- Refinamento das secções já escritas, incluindo ajustes no texto e melhorias no alinhamento das ideias.
+- Escrita das secções sobre modelação de dados com ênfase nos padrões NGSI-LD e NGSIv2, destacando as vantagens e desafios desses modelos na gestão de dados de Smart Cities.
+- Desenvolvimento da secção sobre análise de Big Data, abordando as principais técnicas e ferramentas utilizadas na análise de grandes volumes de dados, com foco na aplicação em plataformas urbanas.
