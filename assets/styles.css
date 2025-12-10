@@ -148,6 +148,14 @@ code {
   padding: 1.75rem;
   box-shadow: var(--shadow);
   backdrop-filter: blur(8px);
+  max-height: calc(100vh - 3rem);
+  overflow: hidden;
+  transition: overflow 0.2s ease;
+}
+
+.sidebar:hover,
+.sidebar:focus-within {
+  overflow-y: auto;
 }
 
 .sidebar h2 {
