@@ -202,7 +202,11 @@
 
 - Concluir e consolidar a escrita das secções do Capítulo 2 relacionadas com Smart Cities, incluindo o conceito, características e principais desafios.
 - Finalizar a análise e descrição das plataformas urbanas de dados atuais, garantindo consistência entre exemplos, arquitetura e objetivos de cada abordagem.
-- Completar a secção relativa aos verticais existentes na literatura, estruturando-os por domínios e extraindo padrões e limitações relevantes para o trabalho.
--
+- Completar a secção relativa a vários verticais existentes na literatura, estruturando-os por domínios e extraindo padrões e limitações relevantes para o trabalho.
 
 ## Tarefas Realizadas
+
+- Conclusão do tópico sobre o conceito de Smart Cities e desafios associados, integrando aspetos como heterogeneidade de fontes, interoperabilidade, escalabilidade, privacidade/segurança, qualidade de dados e governança.
+- Finalização da secção dedicada às plataformas urbanas existentes, consolidando a análise comparativa das soluções estudadas e reforçando a contextualização arquitetural e funcional das mesmas.
+- Conclusão da secção sobre vários verticais de Smart Cities descritos na literatura, organizando casos de uso por áreas (e.g., mobilidade, ambiente, resíduos, iluminação, estacionamento) e identificando tendências comuns e limitações observadas nas abordagens existentes.
+- Revisão geral das secções concluídas, garantindo coerência interna, melhor ligação entre tópicos e uniformização do estilo de escrita no Capítulo 2.
