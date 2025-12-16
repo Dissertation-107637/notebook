@@ -193,3 +193,16 @@
 - Refinamento das secções já escritas, incluindo ajustes no texto e melhorias no alinhamento das ideias.
 - Escrita das secções sobre modelação de dados com ênfase nos padrões NGSI-LD e NGSIv2, destacando as vantagens e desafios desses modelos na gestão de dados de Smart Cities.
 - Desenvolvimento da secção sobre análise de Big Data, abordando as principais técnicas e ferramentas utilizadas na análise de grandes volumes de dados, com foco na aplicação em plataformas urbanas.
+
+---
+
+# Semana 13 (09/12/2025 - 16/12/2025)
+
+## Objetivos Principais
+
+- Concluir e consolidar a escrita das secções do Capítulo 2 relacionadas com Smart Cities, incluindo o conceito, características e principais desafios.
+- Finalizar a análise e descrição das plataformas urbanas de dados atuais, garantindo consistência entre exemplos, arquitetura e objetivos de cada abordagem.
+- Completar a secção relativa aos verticais existentes na literatura, estruturando-os por domínios e extraindo padrões e limitações relevantes para o trabalho.
+-
+
+## Tarefas Realizadas
