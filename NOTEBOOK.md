@@ -28,7 +28,7 @@
 ## Tarefas Realizadas
 
 - Início da pesquisa e recolha de literatura científica relevante para o enquadramento teórico da dissertação.
-- Início de um novo curso sobre Kubernetes, disponível [aqui](https://www.udemy.com/course/certified-kubernetes-application-developer/?couponCode=KEEPLEARNING), com foco em práticas avançadas de deployments e gestão de aplicações.
+- Início de um novo curso sobre Kubernetes, disponível [aqui](https://www.coursera.org/learn/kubernetes-basic-for-devops), com foco em práticas avançadas de deployments e gestão de aplicações.
 - Realização de testes para escalar Kafka Connectors utilizando shared subscriptions no MQTT, visando melhorar o processamento paralelo dos fluxos de dados provenientes das câmaras.
 - Ajuste e estabilização da pipeline de dados, anteriormente com falhas frequentes, garantindo o processamento contínuo e sem acumulação de mensagens no Kafka.
 
@@ -210,3 +210,19 @@
 - Finalização da secção dedicada às plataformas urbanas existentes, consolidando a análise comparativa das soluções estudadas e reforçando a contextualização arquitetural e funcional das mesmas.
 - Conclusão da secção sobre vários verticais de Smart Cities descritos na literatura, organizando casos de uso por áreas (e.g., mobilidade, ambiente, resíduos, iluminação, estacionamento) e identificando tendências comuns e limitações observadas nas abordagens existentes.
 - Revisão geral das secções concluídas, garantindo coerência interna, melhor ligação entre tópicos e uniformização do estilo de escrita no Capítulo 2.
+
+---
+
+# Semana 14 (16/12/2025 - 23/12/2025)
+
+## Objetivos Principais
+
+- Concluir a formação avançada em Kubernetes iniciada na semana 2.
+- Adquirir bases teóricas e práticas sobre bases de dados distribuídas.
+- Avançar na escrita do Capítulo 2, desenvolvendo o tópico Context Information Management and Data Models, consolidando conceitos essenciais para a modelação e gestão de contexto em plataformas urbanas de dados.
+
+## Tarefas Realizadas
+
+- Conclusão do curso de Kubernetes iniciado na Semana 2, com revisão e consolidação de conceitos avançados de deployment e operação de aplicações distribuídas em clusters. Certificado disponível [aqui](assets/certificates/Coursera-Kubernetes%20Basics%20for%20DevOps.pdf).
+- Conclusão do curso Foundations of Distributed Database Systems (Coursera), reforçando conceitos relacionados com otimização em ambientes distribuídos e execução eficiente de consultas. Certificado disponível [aqui](assets/certificates/Coursera-Foundations%20of%20Distributed%20Database%20Systems.pdf).
+- Escrita e desenvolvimento do tópico Context Information Management and Data Models no Capítulo 2, abordando a gestão de informação de contexto e a sua relação com modelos de dados e mecanismos de interoperabilidade (incluindo a ligação aos padrões já discutidos anteriormente, como NGSIv2 e NGSI-LD).
