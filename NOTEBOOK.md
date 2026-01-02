@@ -13,7 +13,7 @@
 - Levantamento dos principais componentes FIWARE em uso (Orion, Cygnus, Keyrock, Wilma, AuthzForce).
 - Exploração da configuração do cluster Kubernetes e identificação de como os serviços estão distribuídos.
 - Recolha e organização de documentação relevante (diagramas, especificações técnicas e configurações).
-- Estudo introdutório sobre Kubernetes, incluindo conceitos de deployments, services, namespaces, configmaps, secrets e ingresses. Conclusão de uma certificação introdutória em Kubernetes, disponível [aqui](assets/certificates/Kubernetes%20for%20the%20Absolute%20Beginners%20-%20Hands-on.pdf).
+- Estudo introdutório sobre Kubernetes, incluindo conceitos de deployments, services, namespaces, configmaps, secrets e ingresses. Conclusão de uma certificação introdutória em Kubernetes, disponível [aqui](assets/certificates/Udemy%20-%20Kubernetes%20for%20the%20Absolute%20Beginners%20-%20Hands-on.pdf).
 
 ---
 
@@ -223,6 +223,20 @@
 
 ## Tarefas Realizadas
 
-- Conclusão do curso de Kubernetes iniciado na Semana 2, com revisão e consolidação de conceitos avançados de deployment e operação de aplicações distribuídas em clusters. Certificado disponível [aqui](assets/certificates/Coursera-Kubernetes%20Basics%20for%20DevOps.pdf).
-- Conclusão do curso Foundations of Distributed Database Systems (Coursera), reforçando conceitos relacionados com otimização em ambientes distribuídos e execução eficiente de consultas. Certificado disponível [aqui](assets/certificates/Coursera-Foundations%20of%20Distributed%20Database%20Systems.pdf).
+- Conclusão do curso de Kubernetes iniciado na Semana 2, com revisão e consolidação de conceitos avançados de deployment e operação de aplicações distribuídas em clusters. Certificado disponível [aqui](assets/certificates/KodeKloud%20-%20Kubernetes%20Basics%20for%20DevOps.pdf).
+- Conclusão do curso Foundations of Distributed Database Systems, reforçando conceitos relacionados com otimização em ambientes distribuídos e execução eficiente de consultas. Certificado disponível [aqui](assets/certificates/Johns%20Hopkins%20University%20-%20Foundations%20of%20Distributed%20Database%20Systems.pdf).
 - Escrita e desenvolvimento do tópico Context Information Management and Data Models no Capítulo 2, abordando a gestão de informação de contexto e a sua relação com modelos de dados e mecanismos de interoperabilidade (incluindo a ligação aos padrões já discutidos anteriormente, como NGSIv2 e NGSI-LD).
+
+# Semana 15 (23/12/2025 - 30/12/2025)
+
+## Objetivos Principais
+
+- Reforçar competências práticas de gestão de aplicações cloud-native em Kubernetes, com foco em operação, manutenção e boas práticas de administração.
+- Avançar na escrita do Capítulo 2, concluindo os tópicos transversais relacionados com escalabilidade, Big Data analysis, persistência de dados, segurança, controlo de acessos e multi-tenancy.
+- Iniciar e avançar na escrita do Capítulo 3, consolidando a transição do enquadramento teórico para a proposta do trabalho.
+
+## Tarefas Realizadas
+
+- Conclusão do curso Managing Cloud-native Applications with Kubernetes, com certificado disponível [aqui](assets/certificates/Red%20Hat%20-%20Managing%20Cloud-native%20Applications%20with%20Kubernetes.pdf). ￼
+- Avanço significativo na redação dos tópicos restantes do Capítulo 2, cobrindo escalabilidade e mecanismos de suporte a crescimento de bases de dados e fluxos de dados, análise de Big Data e implicações para plataformas urbanas, persistência de dados e estratégias associadas, segurança, controlo de acessos e modelo multi-tenant aplicado à plataforma.
+- Início e progresso na escrita do Capítulo 3, estruturando o conteúdo inicial e estabelecendo a ligação entre os requisitos e limitações identificados no Estado da Arte e a abordagem proposta no trabalho.
